@@ -8,7 +8,7 @@ int main() {
     cout << "                                  " << endl;
     cout << "*    Programming Assignment 1    *" << endl;
     cout << "                                  " << endl;
-    cout << "*     Computer Programming I     *" << endl;
+    cout << "*     Computer Programming 1     *" << endl;
     cout << "                                  " << endl;
     cout << "*     Author: Bryan Cabrera      *" << endl;
     cout << "                                  " << endl;
