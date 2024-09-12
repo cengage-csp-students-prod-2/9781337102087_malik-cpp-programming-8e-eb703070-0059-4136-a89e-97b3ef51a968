@@ -1,0 +1,19 @@
+
+Status: FAILED!
+Check: 1
+Test: Proper keywords in output
+Reason: Unable to find '['Programming Assignment 1', 'Computer Programming I', 'Author:', 'Due Date: Thursday, Jan. 24']' in the program's output.
+**********************************
+                                  
+*    Programming Assignment 1    *
+                                  
+*     Computer Programming 1     *
+                                  
+*     Author: Bryan Cabrera      *
+                                  
+*   Due Date: Thursday, Jan. 24  *
+                                  
+**********************************
+.
+Error : AssertionError - Unable to find Computer Programming I in the program's output.
+Timestamp: 2024-09-12 01:14:17.070435
