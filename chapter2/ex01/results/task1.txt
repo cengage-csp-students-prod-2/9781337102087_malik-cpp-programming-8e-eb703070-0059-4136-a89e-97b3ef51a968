@@ -1,0 +1,8 @@
+
+Status: PASSED!
+Check: 1
+Test: **???** replaced with student's name
+Reason:     cout << "*      Author: D. S. Malik      *" << endl;
+    cout << "*   Due Date: Thursday, Jan. 24 *" << endl;
+    cout << "*********************************" << endl; + ` was found in the program.None
+Timestamp: 2024-09-12 01:13:13.131292
