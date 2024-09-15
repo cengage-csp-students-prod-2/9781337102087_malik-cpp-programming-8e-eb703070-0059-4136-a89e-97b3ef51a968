@@ -3,16 +3,16 @@ Status: PASSED!
 Check: 1
 Test: `15.76` stored in `num3`
 Reason: num3 = 15.76; + ` was found in the program.None
-Timestamp: 2024-09-15 21:17:37.094417
+Timestamp: 2024-09-15 21:18:34.786929
 
 Status: PASSED!
 Check: 2
 Test: `–35.56` stored in `num2`
 Reason: num2 = -35.56; + ` was found in the program.None
-Timestamp: 2024-09-15 21:17:37.094679
+Timestamp: 2024-09-15 21:18:34.787187
 
 Status: PASSED!
 Check: 3
 Test: `75.35` stored in `num1` 
 Reason: num1 = 75.35; + ` was found in the program.None
-Timestamp: 2024-09-15 21:17:37.094915
+Timestamp: 2024-09-15 21:18:34.787418
