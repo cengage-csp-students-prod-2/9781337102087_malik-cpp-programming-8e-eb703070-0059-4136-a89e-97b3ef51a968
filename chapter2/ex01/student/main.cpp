@@ -6,7 +6,7 @@ int main() {
     // Write your main here
     cout << "**********************************" << endl;
     cout << "                                  " << endl;
-    cout << "*    Programming Assignment I    *" << endl;
+    cout << "*    Programming Assignment 1    *" << endl;
     cout << "                                  " << endl;
     cout << "*     Computer Programming I     *" << endl;
     cout << "                                  " << endl;
