@@ -1,0 +1,6 @@
+
+Status: PASSED!
+Check: 1
+Test: Correct variable values printed to screen
+Reason: None
+Timestamp: 2024-09-15 21:17:13.569236
