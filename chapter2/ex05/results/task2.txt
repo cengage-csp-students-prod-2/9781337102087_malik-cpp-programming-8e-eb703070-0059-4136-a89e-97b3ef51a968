@@ -1,0 +1,22 @@
+
+Status: FAILED!
+Check: 1
+Test: Computes correct circumference test case 1
+Reason: Unable to find '['Circumference = 63.114']' in the program's output.
+Enter the radius: Area = 0
+Circumference = 4.34303e-309
+
+.
+Error : AssertionError - Unable to find Circumference = 63.114 in the program's output.
+Timestamp: 2024-09-15 21:32:44.915517
+
+Status: FAILED!
+Check: 2
+Test: Computes correct circumference test case 2
+Reason: Unable to find '['Circumference = 18.84']' in the program's output.
+Enter the radius: Area = 0
+Circumference = 4.36373e-309
+
+.
+Error : AssertionError - Unable to find Circumference = 18.84 in the program's output.
+Timestamp: 2024-09-15 21:32:44.917704
