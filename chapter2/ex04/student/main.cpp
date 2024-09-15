@@ -4,7 +4,7 @@
 
 using namespace std;
 
-int main() {
+int main() {}
 
 //variable declaration
 double num1 = 75.35;
