@@ -1,9 +1,9 @@
 #include <iostream>
+
 using namespace std;
 
 
 int main() {
-
 
 double radius;
 
@@ -18,15 +18,13 @@ area = PI * radius * radius;
 circumference = 2 * PI * radius;
 
 cout << "Enter the radius: ";
-
 cin >> radius;
-
-cout << endl;
 
 cout << "Area = " << area << endl;
 
 cout << "Circumference = " << circumference << endl;
 
+cout << endl;
 return 0;
 
 }
