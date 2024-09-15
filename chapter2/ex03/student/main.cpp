@@ -5,8 +5,7 @@
 //using namespace statement
 using namespace std;
 
-int main()
-{
+int main() {
 
 //variable declaration
 int num1;
