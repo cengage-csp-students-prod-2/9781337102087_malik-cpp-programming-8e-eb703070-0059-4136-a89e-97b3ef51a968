@@ -9,6 +9,7 @@ int main() {
 
 //variable declaration
 int num1;
+
 num1 = 125;
 int num2;
 num2 = 28;
