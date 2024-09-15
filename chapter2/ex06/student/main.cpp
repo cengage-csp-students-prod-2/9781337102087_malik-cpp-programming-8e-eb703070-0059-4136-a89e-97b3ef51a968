@@ -6,7 +6,7 @@ using namespace std;
 
 int main() {
 //variable declaration
-char name;
+string name;
 double studyHours;
 //executable statements
 cout << "Name: " << name;
