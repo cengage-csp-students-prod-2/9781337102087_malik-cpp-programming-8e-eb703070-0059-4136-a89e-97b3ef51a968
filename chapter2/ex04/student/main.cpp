@@ -1,6 +1,7 @@
 //include statement(s)
 #include <iostream>
 //using namespace statement
+
 using namespace std;
 
 
@@ -18,6 +19,6 @@ double average = 0;
 average = (num1 + num2 + num3) / 3;
 
 //return statement
-cout 
+cout << num1 << " " << num2 << " " << num3 << " " << average;
 
 }
