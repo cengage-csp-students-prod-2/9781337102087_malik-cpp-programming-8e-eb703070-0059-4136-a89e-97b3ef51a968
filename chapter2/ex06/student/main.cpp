@@ -16,7 +16,6 @@ cin >> name;
 cout << "Study Hours: " << studyHours;
 cin >> studyHours;
 
-
 //return statement
 
 return 0;
