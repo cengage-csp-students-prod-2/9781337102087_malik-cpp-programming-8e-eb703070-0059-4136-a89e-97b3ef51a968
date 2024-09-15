@@ -3,11 +3,10 @@ Status: PASSED!
 Check: 1
 Test: Variable `studyHours` declared of type `double`
 Reason: double studyHours; + ` was found in the program.None
-Timestamp: 2024-09-15 22:04:14.886552
+Timestamp: 2024-09-15 22:06:01.000093
 
-Status: FAILED!
+Status: PASSED!
 Check: 2
 Test: Variable `name` declared of type `string`
-Reason: Unable to find 'string name;' in the program.
-Error : str - AssertionError
-Timestamp: 2024-09-15 22:04:14.886830
+Reason: string name; + ` was found in the program.None
+Timestamp: 2024-09-15 22:06:01.000362
