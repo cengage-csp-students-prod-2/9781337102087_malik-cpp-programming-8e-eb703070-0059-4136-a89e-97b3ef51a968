@@ -9,13 +9,13 @@ int main() {
 string name;
 double studyHours;
 //executable statements
-cout << "Name: ";
+cout << "Enter first name: ";
 cin >> name;
 
-cout << "Study Hours: ";
+cout << "Enter study hours: ";
 cin >> studyHours;
 
-cout << "Hello, " << name << "!" << " On Saturday, you need to study " << studyHours << " for the exam.";
+cout << "Hello, " << name << "!" << " On Saturday, you need to study " << studyHours << " for the exam." << endl;
 
 //return statement
 
