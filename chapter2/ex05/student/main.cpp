@@ -13,6 +13,10 @@ const double PI = 3.14;
 
 double circumference;
 
+area = PI * radius * radius;
+
+circumference = 2 * PI * radius;
+
 cout << "Enter the radius: ";
 
 cin >> radius;
@@ -20,10 +24,6 @@ cin >> radius;
 cout << endl;
 
 cout << "Area = " << area << endl;
-
-area = PI * radius * radius;
-
-circumference = 2 * PI * radius;
 
 cout << "Circumference = " << circumference << endl;
 
