@@ -7,24 +7,20 @@ int main() {
 
 double radius;
 
-double area;
-
 const double PI = 3.14;
 
-double circumference;
-
-area = PI * radius * radius;
-
-circumference = 2 * PI * radius;
-
 cout << "Enter the radius: ";
+
 cin >> radius;
+
+double area = PI * (radius * radius);
+
+double circumference = 2 * (PI * radius);
 
 cout << "Area = " << area << endl;
 
 cout << "Circumference = " << circumference << endl;
 
-cout << endl;
 return 0;
 
 }

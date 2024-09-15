@@ -8,6 +8,7 @@
         "**/obj": true
     },
     "files.associations": {
-        "random": "cpp"
+        "random": "cpp",
+        "iostream": "cpp"
     }
 }
