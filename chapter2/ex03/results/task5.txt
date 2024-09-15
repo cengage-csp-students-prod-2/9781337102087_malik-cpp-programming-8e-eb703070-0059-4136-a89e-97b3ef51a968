@@ -1,9 +1,6 @@
 
-Status: FAILED!
+Status: PASSED!
 Check: 1
 Test: Correct variable values printed to screen
-Reason: Unable to find '['(125)(?!\\d)', '(28)(?!\\d)', '(\\-25)(?!\\d)', '(42)(?!\\d)']' in the program's output.
-125, 28, -25, 145
-.
-Error : AssertionError - Unable to find (42)(?!\d) in the program's output.
-Timestamp: 2024-09-15 20:55:57.873709
+Reason: None
+Timestamp: 2024-09-15 20:56:36.194132
