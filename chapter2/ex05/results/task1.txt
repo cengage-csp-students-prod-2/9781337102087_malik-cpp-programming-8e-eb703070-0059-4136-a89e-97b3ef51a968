@@ -1,0 +1,22 @@
+
+Status: FAILED!
+Check: 1
+Test: Computes correct area test case 1
+Reason: Unable to find '['Area = 317.148']' in the program's output.
+Enter the radius: 
+Area = 6.91537e-310
+Circumference = 63.114
+.
+Error : AssertionError - Unable to find Area = 317.148 in the program's output.
+Timestamp: 2024-09-15 21:25:48.575764
+
+Status: FAILED!
+Check: 2
+Test: Computes correct area test case 2
+Reason: Unable to find '['Area = 28.26']' in the program's output.
+Enter the radius: 
+Area = 6.92357e-310
+Circumference = 18.84
+.
+Error : AssertionError - Unable to find Area = 28.26 in the program's output.
+Timestamp: 2024-09-15 21:25:48.577930
