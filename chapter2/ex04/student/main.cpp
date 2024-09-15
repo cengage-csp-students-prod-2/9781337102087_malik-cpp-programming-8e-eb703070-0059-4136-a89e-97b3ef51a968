@@ -18,4 +18,6 @@ double average = 0;
 average = (num1 + num2 + num3) / 3;
 
 //return statement
+cout 
+
 }
