@@ -3,7 +3,7 @@ Status: FAILED!
 Check: 1
 Test: Correct variable values printed to screen
 Reason: Unable to find '['(125)(?!\\d)', '(28)(?!\\d)', '(\\-25)(?!\\d)', '(42)(?!\\d)']' in the program's output.
-num1: 125, num2: 28, num3: -25, average: 145
+125, 28, -25, 145
 .
 Error : AssertionError - Unable to find (42)(?!\d) in the program's output.
-Timestamp: 2024-09-15 20:54:11.074274
+Timestamp: 2024-09-15 20:55:57.873709
