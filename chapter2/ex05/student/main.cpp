@@ -22,5 +22,4 @@ cout << "Area = " << area << endl;
 cout << "Circumference = " << circumference << endl;
 
 return 0;
-
 }
