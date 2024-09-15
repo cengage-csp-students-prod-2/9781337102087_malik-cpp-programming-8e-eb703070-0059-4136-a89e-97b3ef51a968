@@ -1,0 +1,12 @@
+
+Status: PASSED!
+Check: 1
+Test: Prompt for input and store input in `name` variable
+Reason: cin >> name + ` was found in the program.None
+Timestamp: 2024-09-15 22:07:10.998437
+
+Status: PASSED!
+Check: 2
+Test: Prompt for input and store input in `studyHours` variable
+Reason: cin >> studyHours + ` was found in the program.None
+Timestamp: 2024-09-15 22:07:10.998721
