@@ -8,7 +8,6 @@ int main() {
 //variable declaration
 char name;
 double studyHours;
-
 //executable statements
 cout << "Name: " << name;
 cin >> name;
