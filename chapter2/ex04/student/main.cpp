@@ -20,4 +20,5 @@ cout << num1 << " " << num2 << " " << num3 << " " << average;
 
 //return statement
 return 0;
+
 }
